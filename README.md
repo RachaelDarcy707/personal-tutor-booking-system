@@ -47,3 +47,5 @@ Web development using Django
 Database design and management
 Role-based system implementation
 Real-world problem solving in an academic support context
+
+Download: https://www.python.org/downloads/ (Version: Python 3.12.7)
